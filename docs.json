@@ -88,6 +88,40 @@
         ]
       },
       {
+        "tab": "Tech",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": ["tech/overview"]
+          },
+          {
+            "group": "AI & Automation",
+            "pages": [
+              "tech/ai-agent-1/overview",
+              "tech/ai-agent-2/overview",
+              "tech/agentic-workflow/overview"
+            ]
+          },
+          {
+            "group": "Tools & Platforms",
+            "pages": [
+              "tech/software-comparison/overview",
+              "tech/landing-page-builder/overview",
+              "tech/internal-kb/overview",
+              "tech/easyveo/overview"
+            ]
+          },
+          {
+            "group": "Code & Apps",
+            "pages": [
+              "tech/code-scripts/overview",
+              "tech/app-build-active/overview",
+              "tech/app-build-idea/overview"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Creative",
         "groups": [
           {
