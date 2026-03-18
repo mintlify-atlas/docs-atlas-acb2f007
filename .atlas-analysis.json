@@ -1,0 +1,166 @@
+{
+  "projectType": "general",
+  "projectName": "Genspark Knowledge Base",
+  "projectDescription": "A personal knowledge base organizing Genspark AI chat outputs across business, marketing, creative, personal wellness, and miscellaneous project hubs.",
+  "theme": "mint",
+  "primaryColor": "#54545c",
+  "lightColor": null,
+  "darkColor": null,
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Home",
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": ["index"]
+          }
+        ]
+      },
+      {
+        "tab": "Business",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": ["business/overview"]
+          },
+          {
+            "group": "Family Gift Studio",
+            "pages": [
+              "business/fgs/overview"
+            ]
+          },
+          {
+            "group": "Second Spring",
+            "pages": [
+              "business/second-spring/overview"
+            ]
+          },
+          {
+            "group": "Other Ventures",
+            "pages": [
+              "business/product-ideas/overview",
+              "business/mission-org/overview",
+              "business/insight-profit/overview",
+              "business/ftk/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Marketing",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": ["marketing/overview"]
+          },
+          {
+            "group": "Content & Copy",
+            "pages": [
+              "marketing/copywriting/overview",
+              "marketing/linkedin/overview",
+              "marketing/youtube-scripts/overview"
+            ]
+          },
+          {
+            "group": "Campaigns",
+            "pages": [
+              "marketing/ad-ideas/overview",
+              "marketing/emails-1/overview",
+              "marketing/cmo/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Creative",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": ["creative/overview"]
+          },
+          {
+            "group": "Design & Brand",
+            "pages": [
+              "creative/design-mastery/overview",
+              "creative/tone/overview"
+            ]
+          },
+          {
+            "group": "Content Production",
+            "pages": [
+              "creative/ebook/overview",
+              "creative/video-storyboard/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Personal",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": ["personal/overview"]
+          },
+          {
+            "group": "Health & Wellness",
+            "pages": [
+              "personal/glp-1/overview",
+              "personal/fitness/overview",
+              "personal/skin/overview",
+              "personal/add/overview",
+              "personal/brain/overview",
+              "personal/health-career/overview"
+            ]
+          },
+          {
+            "group": "Lifestyle",
+            "pages": [
+              "personal/travel/overview",
+              "personal/cleaning/overview",
+              "personal/pest/overview"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Other",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": ["other/overview"]
+          },
+          {
+            "group": "Projects",
+            "pages": [
+              "other/done/overview",
+              "other/eol/overview",
+              "other/jjm/overview",
+              "other/lala/overview",
+              "other/toigo/overview",
+              "other/family-office/overview"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Organized Genspark AI chat outputs across multiple life domains",
+    "Business strategy hubs for eCommerce brands (Family Gift Studio, Second Spring)",
+    "Marketing playbooks covering copywriting, ads, LinkedIn, email, and YouTube",
+    "Creative resources including design systems, brand voice, and content production",
+    "Personal wellness tracking covering health, fitness, and lifestyle topics",
+    "Centralized knowledge base with links to Genspark, Notion, and Wiki.js"
+  ],
+  "publicApiSurface": [
+    "business/overview",
+    "business/fgs/overview",
+    "business/second-spring/overview",
+    "marketing/overview",
+    "marketing/copywriting/overview",
+    "creative/overview",
+    "personal/overview",
+    "other/overview"
+  ]
+}
